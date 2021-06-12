@@ -57,7 +57,7 @@ Para facilitar, o projeto possui um arquivo `docker-compose.yml` que já cria o 
 - Clone este repositório
 
 ```
-> git clone https://github.com/jcobarreto/05-ignite-desafio-database-queries.git
+git clone https://github.com/jcobarreto/05-ignite-desafio-database-queries.git
 ```
 
 - Navegue até o diretório principal do projeto
