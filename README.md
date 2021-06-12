@@ -63,7 +63,7 @@ git clone https://github.com/jcobarreto/05-ignite-desafio-database-queries.git
 - Navegue até o diretório principal do projeto
 
 ```
-> cd 05-ignite-desafio-database-queries
+cd 05-ignite-desafio-database-queries
 ```
 
 - Instale as dependências com o Yarn
